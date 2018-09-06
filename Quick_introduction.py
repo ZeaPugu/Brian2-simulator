@@ -1,8 +1,7 @@
 =======================================
-This is a quick introduction how to use Brian Simulator to observe behaviours of Spiking Neural Networks (SNNs)
-This aims to give a quick overview of step-by-step procedure to generate results.
-For a beginner, this is a time-saving.
-Last but not least, the reader is referred to the Brian 2 documentation from https://brian2.readthedocs.io/en/stable/#for further details
+This is a quick manual on how to use Brian Simulator to observe behaviors of Spiking Neural Networks (SNNs).
+This tutorial consists of a step-by-step procedure for a beginner to explore Brian Simulator. I strongly believe that this is time-saving for beginners.
+Last but not least, the reader is referred to the Brian 2 documentation from https://brian2.readthedocs.io/en/stable/# for any further details.
 Latest update: September 6th, 2018
 Editor: Le-Ha Hoang
 =======================================
